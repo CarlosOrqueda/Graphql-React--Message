@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.18.3",
+    "graphql-yoga": "^3.9.1",
     "mongoose": "^5.9.6"
   },
   "devDependencies": {
